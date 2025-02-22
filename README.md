@@ -1,16 +1,12 @@
-# lemur-monokai README
+# Lemur Monokai Dark Theme
+## A Monokai-inspired dark theme with a calming green accent, crafted to keep your eyes at ease while preserving the iconic Monokai feel.
 
-## Working with Markdown
+**The Lemur Monokai Dark Theme features a color palette designed with both beauty and functionality in mind. Every hue has been thoughtfully chosen to create an immersive and distraction-free environment. Whether you're working late or diving deep into complex code, this theme provides a perfect balance of clarity and comfort.**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![example-code-vs-extension](https://github.com/user-attachments/assets/d7698a50-e71b-4549-9bc3-9b1a0f303eba)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Available in dark mode, the Lemur Monokai theme is designed to help you focus on your code, no matter the lighting or time of day.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+🍃 How to install free evaluation for Visual Studio Code:
+1. Extensions ‣ Search for 'Lemur Monokai Dark Theme' ‣ Install
+2. Command Palette ‣ Lemur Monokai Dark Theme: select theme
