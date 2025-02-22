@@ -1,0 +1,21 @@
+{
+  "name": "lemur-monokai",
+  "displayName": "Lemur Monokai",
+  "description": "A Monokai-inspired dark theme infused with soothing greens—designed to keep your eyes comfortable without losing the iconic Monokai vibe.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lemur Monokai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lemur Monokai Theme-color-theme.json"
+      }
+    ]
+  }
+}
