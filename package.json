@@ -1,8 +1,36 @@
 {
   "name": "lemur-monokai",
-  "displayName": "Lemur Monokai",
+  "displayName": "Lemur Monokai Dark Theme",
   "description": "A Monokai-inspired dark theme infused with soothing greens—designed to keep your eyes comfortable without losing the iconic Monokai vibe.",
   "version": "0.0.1",
+  "publisher": "Keun-Lemur",
+  "icon": "lemur-monokai-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keun-Lemur/lemur-monokai"
+  },
+  "keywords": [
+    "theme",
+    "themes",
+    "dark themes",
+    "high themes",
+    "keun-lemur",
+    "keun lemur",
+    "lemur",
+    "keun",
+    "best theme",
+    "best dark theme",
+    "green",
+    "top dark theme",
+    "top theme",
+    "monokai themes",
+    "monokai theme",
+    "monokai",
+    "best monokai",
+    "top monokai",
+    "dark monokai",
+    "green monokai"
+  ],
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -10,12 +38,10 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Lemur Monokai Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Lemur Monokai Theme-color-theme.json"
-      }
-    ]
+    "themes": [{
+      "label": "Lemur Monokai Dark Theme",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Lemur Monokai Theme-color-theme.json"
+    }]
   }
 }
