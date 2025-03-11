@@ -13,9 +13,10 @@
                 "string.comment"
             ],
             "settings": {
-                "foreground": "#5c6370",
+                "foreground": "#FFFFFF",
                 "fontStyle": "italic"
             }
+            
         },
         {
             "name": "String",
