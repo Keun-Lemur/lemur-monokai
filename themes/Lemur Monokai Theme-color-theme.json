@@ -13,10 +13,10 @@
                 "string.comment"
             ],
             "settings": {
-                "foreground": "#FFFFFF",
+                "foreground": "#B0B0B0", // Changed to a lighter gray
                 "fontStyle": "italic"
             }
-            
+
         },
         {
             "name": "String",
