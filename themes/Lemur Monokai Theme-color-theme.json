@@ -583,25 +583,25 @@
     "panelTitle.inactiveForeground": "#9b9b9b99",
     "badge.background": "#414141",
     "badge.foreground": "#ffffff",
-    "terminal.ansiBlack": "#000000",
-    "terminal.ansiRed": "#ff628c",
-    "terminal.ansiGreen": "#3ad900",
-    "terminal.ansiYellow": "#ffc600",
-    "terminal.ansiBlue": "#0088ff",
-    "terminal.ansiMagenta": "#fb94ff",
-    "terminal.ansiCyan": "#80fcff",
-    "terminal.ansiWhite": "#ffffff",
-    "terminal.ansiBrightBlack": "#0050A4",
-    "terminal.ansiBrightRed": "#ff628c",
-    "terminal.ansiBrightGreen": "#3ad900",
-    "terminal.ansiBrightYellow": "#ffc600",
-    "terminal.ansiBrightBlue": "#0088ff",
-    "terminal.ansiBrightMagenta": "#fb94ff",
-    "terminal.ansiBrightCyan": "#80fcff",
-    "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.background": "#021b2d",
-    "terminal.foreground": "#ffffff",
-    "terminalCursor.background": "#ffc600",
+    "terminal.ansiBlack": "#0e1a1f", // 어두운 회색 계열 (배경과 어울림)
+    "terminal.ansiRed": "#ff628c", // 원래 유지 (핑크)
+    "terminal.ansiGreen": "#3ad900", // 형광 연두
+    "terminal.ansiYellow": "#ffc600", // 노랑
+    "terminal.ansiBlue": "#00bfff", // 좀 더 밝은 블루 (눈에 잘 띄게)
+    "terminal.ansiMagenta": "#c586ff", // 연보라 계열로 통일성
+    "terminal.ansiCyan": "#80fcff", // 민트 (에디터 강조색과 동일)
+    "terminal.ansiWhite": "#e6edf3", // 에디터 전경색과 통일
+    "terminal.ansiBrightBlack": "#3b4b57", // 줄번호 기본색과 유사
+    "terminal.ansiBrightRed": "#ff88a3", // 부드럽게 밝은 핑크
+    "terminal.ansiBrightGreen": "#61f000", // 조금 더 밝은 연두
+    "terminal.ansiBrightYellow": "#ffe766", // 연노랑
+    "terminal.ansiBrightBlue": "#33ccff", // 밝은 하늘색
+    "terminal.ansiBrightMagenta": "#e0b3ff", // 연보라
+    "terminal.ansiBrightCyan": "#b3ffff", // 밝은 민트
+    "terminal.ansiBrightWhite": "#ffffff", // 완전 흰색 유지
+    "terminal.background": "#121212", // 에디터 배경과 통일
+    "terminal.foreground": "#d0d0d0", // 약간 톤 다운된 흰색
+    "terminalCursor.background": "#ffc600", // 커서: 노랑 (에디터와 통일)
     "terminalCursor.foreground": "#ffc600",
     "breadcrumb.background": "#111111",
     "breadcrumb.foreground": "#cccccccc",
